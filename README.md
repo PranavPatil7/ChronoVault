@@ -1,4 +1,4 @@
-# Moniepoint Key Value Store
+# ChronoVault – Key Value Store for Infrastructure and Distributed Systems                            
 
 A lightweight persistent, replicated, and LSM-based Key/Value store built in Java using only standard libraries.
 Supports:
