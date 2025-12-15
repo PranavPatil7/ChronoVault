@@ -1,0 +1,13 @@
+out/
+data/
+*.class
+*.log
+
+.gradle/
+build/
+.idea/
+*.iml
+.DS_Store
+data-8080
+data-8081
+data-8082
